@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>923444577350-8qe0t0kajisjnev1ve93h33vvciujkqv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.923444577350-8qe0t0kajisjnev1ve93h33vvciujkqv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKzIkiCjcvsS9XfX46uArj9YmZ9iECORY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>923444577350</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.LoginandSignUp.ios</string>
+	<key>PROJECT_ID</key>
+	<string>login-and-signup-1687e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-and-signup-1687e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:923444577350:ios:1243df20b35ce614</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-and-signup-1687e.firebaseio.com</string>
+</dict>
+</plist>
